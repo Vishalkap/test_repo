@@ -1,6 +1,7 @@
 ---
 title: Old Faithful Geyser
 ---
+#Vishal Kapoor
 
 The [Old Faithful Geyser](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/faithful.html) 
 data set is a well-known data set that depicts the relationship 
@@ -9,7 +10,7 @@ eruption for the Old Faithful geyser in Yellowstone National
 Park, Wyoming, USA [[webcam]](http://yellowstone.net/webcams/). 
 
 `faithful` is a data set with 272 observations on 2 variables.
-
+# I am changing file to test
 Column name| Description 
 --- | --- 
 eruptions | Duration time of previous eruption time (in mins)
